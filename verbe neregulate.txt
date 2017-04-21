@@ -1,5 +1,5 @@
 Be          | Was         | Been            a fi, a te afla
-Become 			| Became 			| Become				  a deveni
+Become      | Became      | Becomea         deveni
 Begin				| Began				|	Begun						a incepe
 Bring				| Brought			| 	#							a aduce
 Build				| Built				| 	#							a construi

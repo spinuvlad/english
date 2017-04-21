@@ -1,0 +1,60 @@
+Be 					| Was 				| Been 					  a fi, a te afla
+Become 			| Became 			| Become				  a deveni
+Begin				| Began				|	Begun						a incepe
+Bring				| Brought			| 	#							a aduce
+Build				| Built				| 	#							a construi
+Buy 				| Bought 			|  	#							a cumpara
+Can					| Could													a putea
+Come				| Came				| Come						a veni
+Cost 				| Cost 				|   #							a costa
+Do 					| Did 				| Done						a face
+Draw 				| Drew 				| Drawn 					a desena
+Drink 			| Drank 			| Drunk 					a bea
+Eat 				| Ate 				| Eaten						a manca
+Fall 				| Fell 				| Fallen					a cadea
+Fell 				| Felt 				| 	#							a simti
+Fight 			| Fought 			|   #							a se bate
+Find 				| Found 			|   #							a gasi
+Fly 				| Flew 				| Flown						a zbura
+Forget			| Forgot 			| Forgotten				a uita
+Get 				| Got					|   #							a primi
+Give				| Gave 				| Given						a da
+Go 					| Went 				| Gone 						a merge
+Grow				| Grew 				| Grown						a creste
+Hang				| Hung 				|   #							a spanzura
+Have				| Had					|   #							a avea
+Hear				| Heard				|   #							a auzi
+Hold				| Held				|   #							a tine
+Know				| Knew				| Known						a afla, a cunoaste
+Leave				| Left				|   #							a permite
+Let 				|   #		  		|   #							a permite
+Make				| Made 				|   #							a face
+May					| Might													a putea
+Meet 				| Met 				|   #							a intalni
+Pay 				| Payd 				| 	#							a plati
+Put 				|   #					|   #							a putea
+Read 				| Reado				| Read 						a citi
+Retell 			| Retold 			|   #							a repovesti
+Ring				| Rang				| Rung						a suna
+Rise 				| Rose 				| Risen 					a se ridica
+Run 				| Ran 				| Run 						a fugi
+Say 				| Said(a spus)|   #							a spune
+See					| Saw					| Seen 						a vedea
+Sell 				| Sold 				|   #							a vinde
+Send				| Sent 				|   # 						a trimite
+Show 				| Showed 			| Shown						a arata
+Shut 				|   #					|   # 						a inchide
+Sing 				| Sang 				| Sung 						a canta
+Sit 				| Sat 				|   # 						a sedea
+Sleep 			| Slept 			|   # 						a dormi
+Speak 			| Spoke 			| Spoken 					a vorbi
+Spand 			| Spent 			|   #							a cheltui (bani, timp)
+Stand 			| Stood 			|   # 						a sta
+Swim 				| Swam 				| Swum 						a innota
+Take 				| Took 				| Taken						a lua
+Tell 				| Told 				|   # 						a povesti
+Think 			| Thought			|   #							a gandi
+Understand  | Understood  |   #							a intelege
+Wake				| Woke 				| Woken						a se trezi
+Win					| Won 				|   #							a invinge, a castiga
+Write				| Wrote				| Written					a scrie

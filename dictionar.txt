@@ -1,9 +1,9 @@
-I - eu
-You - tu, voi
-We - noi
-They - ei, ele
+I            eu
+You          tu, voi
+We           noi
+They         ei, ele
 
-He - el
-She - ea
+He           el
+She          ea
 
-Will - 'viitor'
+Will         'viitor'

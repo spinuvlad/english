@@ -1,4 +1,4 @@
-Be 					| Was 				| Been 					  a fi, a te afla
+Be          | Was         | Been            a fi, a te afla
 Become 			| Became 			| Become				  a deveni
 Begin				| Began				|	Begun						a incepe
 Bring				| Brought			| 	#							a aduce
@@ -32,8 +32,8 @@ Make				| Made 				|   #							a face
 May					| Might													a putea
 Meet 				| Met 				|   #							a intalni
 Pay 				| Payd 				| 	#							a plati
-Put 				|   #					|   #							a putea
-Read 				| Reado				| Read 						a citi
+Put 				|   #					|   #							a pune
+Read 				| ?						| Read 						a citi
 Retell 			| Retold 			|   #							a repovesti
 Ring				| Rang				| Rung						a suna
 Rise 				| Rose 				| Risen 					a se ridica

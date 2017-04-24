@@ -1,0 +1,4 @@
+learn         a invata
+teach         a preda
+make          a face
+I'm           eu sunt

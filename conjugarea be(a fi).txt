@@ -1,0 +1,25 @@
+Prezent/Pozitiv | a fi
+I am       Eu sunt
+You are    Tu, voi esti, sunteti
+We are     Noi suntem
+They are   Ei, ele sunt
+He is      El este
+She is     Ea este
+It is      Este
+
+Trecut/Pozitiv | a fi
+I was      Eu eram
+You ware   Tu erai, Voi erati
+We ware    Noi eram
+They ware  Ei, ele erau
+He was     El era
+She Was    Ea era
+It was     Era
+
+I am not   Eu nu sunt
+
+               | a avea
+I have     Eu am
+
+He has     El ia
+

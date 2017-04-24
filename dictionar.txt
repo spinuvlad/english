@@ -7,3 +7,58 @@ He           el
 She          ea
 
 Will         'viitor'
+well          bine
+
+leads        oportunitati
+alike        deopotriva
+where        unde
+who          care
+happen       intampla
+host         gazda
+with         cu
+How are you? Ce mai faci?
+
+Bread        paine
+Newspaper    ziar
+Man          barbat
+Men          barbati
+Woman        femeie
+Women        femei
+Rice         orez
+Bye          Pa!
+Sorry        Scuze
+goodbye      la revedere
+good night   noapte buna
+plate        farfurie
+coffee       cafea
+wine         vin
+egg          ou
+sugar        zahar
+
+breakfast    mic dejun
+lunch        pranz
+diner        cina
+
+cheese       branza
+soup         supa
+the food     Alimentele, mancare
+beer         bere
+lemon        lamaie
+salt         sare
+The oil      uleiul
+The tea      ceaiul
+The meat     carnea
+pork         carne de porc
+Beef         carnea de vita
+Orange       portocala
+Chicken      pui
+A juice      un suc
+
+ANIMALS
+horse 			cal
+crab        crab
+bear        urs
+bird        pasare
+turtle      broasca testoasa
+A spider    Un paianjen
+elephant    elefant

@@ -42,6 +42,7 @@ diner        cina
 cheese       branza
 soup         supa
 the food     Alimentele, mancare
+meal         mancare
 beer         bere
 lemon        lamaie
 salt         sare
@@ -62,3 +63,7 @@ bird        pasare
 turtle      broasca testoasa
 A spider    Un paianjen
 elephant    elefant
+duck        rata
+
+wonderful   extraordinar
+understand  a intelege

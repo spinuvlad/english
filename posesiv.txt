@@ -1,4 +1,11 @@
 My       meu
+Mine     meu
 Our      nostru
 Ours     al nostru, ai nostri, ale noastre
 Your     tau, voastra, vostri
+
+Me       eu (Not me! - Nu eu)
+Her      ea, ei
+Him      el, pe el
+His      lui
+Their    lor

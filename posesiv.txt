@@ -9,3 +9,4 @@ Her      ea, ei
 Him      el, pe el
 His      lui
 Their    lor
+them     lor

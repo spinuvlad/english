@@ -65,5 +65,19 @@ A spider    Un paianjen
 elephant    elefant
 duck        rata
 
+ARTICOLE VESTIMENTARE:
+clothes     hainele
+skirt       fusta
+dress       rochie
+shoes       pantofi
+coat        haina, palton
+shirt       camasa
+suit        costum
+hat         palarie
+pants       pantaloni
+
+
+
+
 wonderful   extraordinar
 understand  a intelege

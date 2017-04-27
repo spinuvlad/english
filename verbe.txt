@@ -2,3 +2,36 @@ learn         a invata
 teach         a preda
 make          a face
 I'm           eu sunt
+wear          a purta
+walk          a merge, a umbla, a se plimba
+want          a dori, a vrea
+swim          a innota
+see           a vedea
+run           a fugi, a alerga
+cook          a gati
+sleep         a dormi
+like          a placea
+go            a merge
+He goes       El merge
+rains         a ploua
+use           a folosi, a utiliza
+it rains cats and dogs  ploua cu galeata
+listen        a asculta
+hear          a auzi
+say           a spune
+touch         a atinge
+know          a sti, a cunoaste
+find          a gasi
+tell          a spune
+support       a sprijini, a sustine
+need          a avea nevoie
+design        a crea, a proiecta, a desena
+take          a lua
+show          a arata
+
+
+
+
+
+
+
